@@ -1,6 +1,6 @@
 - 👋 Hi, I’m salcho94
 mysite:(https://salcho.kro.kr/)
-mysite:(http://js94.kro.kr/)
+mysite:(http://js94.kro.kr:3000/)
 
 myBlog:https://salcho94.github.io/
 
