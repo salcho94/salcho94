@@ -1,5 +1,6 @@
 - 👋 Hi, I’m salcho94
-link me : https://salcho.kro.kr
+context me : https://salcho.kro.kr
+git blog : https://salcho94.github.io/
 
 MBTI : INTJ
 <!---
