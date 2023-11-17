@@ -1,6 +1,6 @@
 - 👋 Hi, I’m salcho94
 - context me : https://salcho.kro.kr
-- my site : 1994.kro.kr
+- my site : http://1994.kro.kr
 
 git blog : https://salcho94.github.io
 
