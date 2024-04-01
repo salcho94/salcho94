@@ -16,8 +16,7 @@ git blog : https://salcho94.github.io
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>  
-
+<img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
   
