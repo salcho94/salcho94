@@ -18,6 +18,8 @@ git blog : https://salcho94.github.io
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white)](https://www.oracle.com/database/)
 
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=salcho94)](https://github.com/salcho94/github-readme-stats)
+
 
 <!---
 salcho94/salcho94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
